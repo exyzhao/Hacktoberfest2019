@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ethan Zhao
+- Photo: N/A
+- Location: Dallas, USA
+- Bio: Student programmer
+- Github: https://github.com/exyzhao
